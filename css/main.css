@@ -1,0 +1,60 @@
+html,body{
+    padding: 0px;
+margin: 0px;
+
+}
+
+.header{
+    background-image: linear-gradient(to left,#31bdf8,#14afef);
+}
+
+.pos1{
+    top: -280px;
+    position: relative;
+    left: -100px;
+}
+.pos2{
+    top: -260px;
+    position: relative;
+    left: -100px;
+}
+.my-ic1{
+
+background-color:  black !important;
+
+
+}
+
+.my-rond {
+    border-radius: 50px;
+}
+.po1{
+    top:50px;
+    position: relative;
+}
+
+.f1{
+    color: #14afef;
+}
+.section3{
+    background-image: url('../photo/08.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+.sec{
+    background-color: #14adefbd;
+}
+.my-hov:hover,.my-active{
+background-color: rgb(33 37 41) !important;
+color:rgb(255 255 255) !important ;
+}
+.my-hov:hover,.my-active{
+    background-color:transparent;
+    color:transparent ;
+    }
+
+.section3,.header{
+    display: none;
+}
+
